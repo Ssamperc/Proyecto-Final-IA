@@ -1,7 +1,7 @@
 """
 app.py — Demo interactiva: Detección de Fraude + Explicaciones LLM
 Ejecutar con: streamlit run app/app.py
-Proyecto Final IA · EAFIT 2026-1 · Juan Pablo Duque
+Proyecto Final IA · EAFIT 2026-1 · Nombre Completo 3
 """
 
 import os, sys, json, warnings

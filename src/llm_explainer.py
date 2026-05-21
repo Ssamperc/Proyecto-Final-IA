@@ -2,7 +2,7 @@
 llm_explainer.py — Generador de explicaciones en lenguaje natural
 Proyecto: Detección de Fraude Financiero con ML + LLM Explicativo
 Proyecto Final IA · EAFIT 2026-1
-Responsable: Juan Pablo Duque
+Responsable: Nombre Completo 3
 """
 
 import os
