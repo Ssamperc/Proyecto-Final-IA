@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Datos crudos (describir fuente en data/README.md)
+data/raw/
+data/processed/
+*.csv
+*.parquet
+*.xlsx
+*.h5
+
+# Modelos serializados grandes — usar Git LFS o Drive
+models/*.joblib
+models/*.pkl
+models/*.pt
+models/*.pth
+models/*.bin
+
+# Variables de entorno y claves API — NUNCA subir esto
+.env
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
+Thumbbs.db
+
+# Logs y experimentos
+logs/
+mlruns/
+wandb/
+*.log
+
+# Figuras temporales
+*.tmp
