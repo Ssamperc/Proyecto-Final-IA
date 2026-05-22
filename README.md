@@ -63,7 +63,7 @@ cp .env.example .env
 
 ## 🚀 Cómo correr el proyecto
 
-### Opción A — Notebooks en orden (reproducción completa)
+### 1. — Notebooks en orden (reproducción completa)
 ```bash
 jupyter notebook
 # Ejecutar en este orden:
@@ -73,7 +73,7 @@ jupyter notebook
 # 04_llm_explicaciones.ipynb → SHAP + explicaciones LLM
 ```
 
-### Opción B — Demo interactiva Streamlit
+### 2. — Demo interactiva Streamlit
 ```bash
 streamlit run app/app.py
 # Abre automáticamente en http://localhost:8501
