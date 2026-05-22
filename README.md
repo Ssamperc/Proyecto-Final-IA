@@ -139,8 +139,8 @@ proyecto-ia-eafit/
 ## 🎥 Entregables
 
 - 📄 **Informe:** `docs/informe_final.pdf`
-- 🎬 **Video demo (≤ 3 min):** https://youtu.be/LINK-AL-VIDEO ← *actualizar antes de entregar*
-- 🔗 **Repositorio:** https://github.com/USUARIO/proyecto-ia-eafit ← *actualizar con usuario real*
+- 🎬 **Video demo (≤ 3 min):** https://youtu.be/8xJkhYInzF4 ← *actualizar antes de entregar*
+- 🔗 **Repositorio:** https://github.com/Ssamperc/proyecto-ia-eafit ← *actualizar con usuario real*
 
 > ⚠️ **Recordatorio para el equipo:** cada integrante debe enviar un correo individual
 > al profesor con el link al repositorio dentro de la ventana 19–22 de mayo.
