@@ -46,7 +46,7 @@
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/USUARIO/proyecto-ia-eafit.git
+git clone https://github.com/Ssamperc/proyecto-ia-eafit.git
 cd proyecto-ia-eafit
 
 # 2. Instalar dependencias (Python 3.10+)
@@ -124,15 +124,6 @@ proyecto-ia-eafit/
 ├── .gitignore
 └── COMMITS.md                        ← Historial de ramas y commits del equipo
 ```
-
----
-
-## 📄 Compilar el informe LaTeX
-
-1. Ir a [overleaf.com](https://overleaf.com) → **New Project → Upload Project**
-2. Subir `docs/Proyecto_Final.tex` y todas las imágenes de `figures/`
-3. **Menu → Compiler → pdfLaTeX → Recompile**
-4. **Download PDF** → guardar como `docs/informe_final.pdf` → subir al repo
 
 ---
 
