@@ -1,7 +1,7 @@
 """
 app.py — Demo interactiva: Detección de Fraude + Explicaciones LLM
 Ejecutar con: streamlit run app/app.py
-Proyecto Final IA · EAFIT 2026-1 · Nombre Completo 3
+Proyecto Final IA · EAFIT 2026-1 · Samuel Samper Cardona
 """
 
 import os, sys, json, warnings
@@ -93,10 +93,10 @@ with st.sidebar:
     st.divider()
     st.markdown("### 👥 Equipo")
     st.markdown("""
-- Nombre Completo 1
-- Nombre Completo 2
-- Nombre Completo 3
-- Nombre Completo 4
+- David Ruiz Vallejo
+- David Quintero
+- Juan Pablo Duque Osorio
+- Samuel Samper Cardona
 """)
     st.divider()
     st.markdown("### 🏆 Métricas — Test Set")
@@ -313,15 +313,15 @@ with tab4:
     with col_a:
         st.markdown("""
 ### 🔗 Links
-- 📁 **GitHub:** https://github.com/USUARIO/proyecto-ia-eafit
-- 🎬 **Video demo:** https://youtu.be/LINK
+- 📁 **GitHub:** https://github.com/Ssamperc/Proyecto-Final-IA.git
+- 🎬 **Video demo:** https://youtu.be/8xJkhYInzF4
 - 📓 **Notebook principal:** `notebooks/03_modeling.ipynb`
 """)
     with col_b:
         st.markdown("""
 ### 📦 Instalación
 ```bash
-git clone https://github.com/USUARIO/proyecto-ia-eafit.git
+git clone https://github.com/Ssamperc/Proyecto-Final-IA.git
 cd proyecto-ia-eafit
 pip install -r requirements.txt
 streamlit run app/app.py
