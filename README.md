@@ -136,6 +136,24 @@ proyecto-ia-eafit/
 
 ---
 
+## GUIA STREAMLIT
+
+<img width="1918" height="1143" alt="image" src="https://github.com/user-attachments/assets/6edc27bd-3dd2-4787-bb84-c5d7e4206d94" />
+
+Aqui se mueven los sliders para simular la transaccion, luego se presiona en analizar para que diga cuanto porcentaje tiene de ser fraudulenta.
+
+<img width="1919" height="1134" alt="image" src="https://github.com/user-attachments/assets/242995ab-b607-4652-97ab-d573f100f664" />
+
+Luego de ejecutar el primer notebook solo entrando a la seccion de analisis exploratorio de datos se van a ver todas las graficas.
+
+<img width="1919" height="1139" alt="image" src="https://github.com/user-attachments/assets/153be933-80ad-459b-9164-87809e9bdb22" />
+
+Luego de ejecutar el notebook #4 se debe recargar la pagina para poder ver las explicaciones en texto natural de llm.
+
+<img width="1915" height="1031" alt="image" src="https://github.com/user-attachments/assets/be0aebfb-6fa3-4908-8b3b-70e7ded1424e" />
+
+En esta ultima seccion se podra descargar el informe final tanto en PDF como en Latex, ademas estan los enlaces a este repositorio y al video demo.
+
 ## 🔬 Metodología resumida
 
 1. **EDA:** Análisis de desbalance (284:1), correlaciones, nulos, outliers en `Amount`
